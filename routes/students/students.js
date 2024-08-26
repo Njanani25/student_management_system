@@ -1,8 +1,7 @@
-// Import necessary modules
 const express = require("express");
 const router = express.Router();
-const Student = require("../../db/schemas/studentSchema"); // Path to your student schema
-const Department = require("../../db/schemas/departmentSchema"); // Path to your department schema
+const Student = require("../../db/schemas/studentSchema"); // Path to  student schema
+const Department = require("../../db/schemas/departmentSchema"); // Path to  department schema
 
 // 1. List and search students
 router.get("/students", async (req, res) => {
