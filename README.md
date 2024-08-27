@@ -77,10 +77,10 @@ The Student Management System API is a backend application developed using Node.
 
 1.**Add the student**
 ![image](https://github.com/user-attachments/assets/6665a7eb-8f8c-409a-bb47-b722bd149c76)
-![image](https://github.com/user-attachments/assets/5e268239-5ea0-496f-ac93-699639e5780b)
 
 2.**list the students**
-![image](https://github.com/user-attachments/assets/2894f397-6d2d-4296-9046-d7150f28ad79)
+![Screenshot 2024-08-27 080616](https://github.com/user-attachments/assets/9f59009c-83d4-4a2b-86b3-296bff0c1abb)
+
 
 3.**search by name**
 ![image](https://github.com/user-attachments/assets/80991fae-32a3-4378-bff2-beb5429f2786)
